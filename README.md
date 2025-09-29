@@ -9,5 +9,3 @@ Este projeto foi criado como atividade prática para simular um formulário pare
 - Armazenamento de dados no localStorage.
 - Preenchimento automático dos campos ao reabrir a página.
 - Estilo inspirado no Google Formulários.
-
-#Estrutura do Projeto
